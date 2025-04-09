@@ -7,7 +7,7 @@
             "chainId": 56,
             "asset": "c20000714_t0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
             "type": "BEP20",
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "address": "0x9c9d80607fd42e6b8e4281a54532251a1d8ddc22",
             "name": "Wrapped BNB",
             "symbol": "WBNB",
             "decimals": 18,
